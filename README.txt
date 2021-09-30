@@ -55,3 +55,5 @@ Finally, Query the data like this:
     Rkid::Klass.find(:all)
 
 And so forth.
+I hope this helps you.
+Thank You
